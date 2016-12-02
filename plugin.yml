@@ -1,0 +1,7 @@
+name: แจ้งเตือนpvp
+author: AomSkr
+version: AomSkrEdit
+main: KillAlert\Main
+api: [2.0.0]
+Dependency: DevTools
+
