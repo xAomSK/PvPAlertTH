@@ -1,2 +1,2 @@
 # PvPAlertTH
-Sample Plugins of MCPE (Pocketmine,Genisys,ImagicalMine,ClearSky)
+Sample Plugins of MCPE Change PvP Alert to Thai Language (Pocketmine,Genisys,ImagicalMine,ClearSky)
